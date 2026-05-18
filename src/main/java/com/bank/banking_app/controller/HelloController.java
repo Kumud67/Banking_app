@@ -17,4 +17,4 @@ public class HelloController {
     }
 }
 
-// sample 
+// sample controllrt
